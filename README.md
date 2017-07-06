@@ -1,2 +1,2 @@
 # Binomial-and-Normal-Distribution-Probabilities-and-Central-Limit-Theorem-Sampling-Probabilities-
-This is a homework I did in the Spring of 2017. It incorporates calculating probabilities for Binomial, Normal, and Uniform distributions. It also has sampling probabilities and distributions using the Central Limit Theorem. It has problem numbers that associated to problems in "Using R: Introductory Statistics".
+This is a homework I did in the Spring of 2017. It incorporates calculating probabilities for Binomial, Normal, and Uniform distributions. It also has sampling probabilities and distributions using the Central Limit Theorem. It has problem numbers that are associated to problems in "Using R: Introductory Statistics".
